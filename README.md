@@ -4,7 +4,7 @@
 
 - [Installation](#installation)
 - [Verify Installation](#verify)
-- [](#verify)
+- [Run](#run)
 
 ## Installation
 
