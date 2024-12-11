@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [Installation](#installation)
-- [Verify Installation](#verify)
+- [Verify](#verify)
 - [Run](#run)
 
 ## Installation
