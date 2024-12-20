@@ -46,5 +46,3 @@ To run the game just run the main.py file from your project directory:
 - [ ] Add a shield power-up
 - [ ] Add a speed power-up
 - [ ] Add bombs that can be dropped
-
-REPLACED
